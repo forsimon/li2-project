@@ -1,0 +1,6 @@
+JAVA_HOME    Java路径
+Path         %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+CLASSPATH    .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+
+
+把api文件解压到jdk路径下
